@@ -1,9 +1,10 @@
-The Rainbow
+The Rainbow 
 
 Purple
 Blue 
 Red
 Green
+Violet
 Yellow
 Orange
 Pink
